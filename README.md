@@ -5,6 +5,6 @@ This repository contains two versions with two different approaches.
 
 1. In the first one I have used a GaussianNB model.(Score obtained is 0.505)
 
-2.In the second one I have used a XGBoost Classifier model.(Score obtained is 0.510)
+2. In the second one I have used a XGBoost Classifier model.(Score obtained is 0.510)
 
 My Kaggle username is "sidagar" without quotes.
