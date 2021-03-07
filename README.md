@@ -7,4 +7,4 @@ This repository contains two versions with two different approaches.
 
 2. In the second one I have used a XGBoost Classifier model.(Score obtained is 0.510)
 
-My Kaggle username is "sidagar" without quotes.
+My Kaggle username is "[sidagar](https://www.kaggle.com/sidagar)" without quotes.
